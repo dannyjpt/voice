@@ -1,9 +1,7 @@
 ChatbotAPI==2.3.3
-Flask==2.2.2
 MarkupSafe==2.1.2
 numpy==1.24.2
 PyAudio==0.2.13
 pyttsx3==2.90
-speech-to-text==0.1.0
 SpeechRecognition==3.9.0
 tokenizers==0.13.2
